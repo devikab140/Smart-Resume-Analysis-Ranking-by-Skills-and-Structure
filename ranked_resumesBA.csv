@@ -1,0 +1,439 @@
+ID,filename,text,Clean_Resume,skills,rank,formatting_quality
+14408,Sam Ariabod.txt,"   
+Contact
+www.linkedin.com/in/sariabod
+(LinkedIn)
+Top Skills
+Data Science
+API Development
+Project Management
+Publications
+The Development and Application of
+Real-Time Deep Learning Models to
+Drive Directional Drilling Efficiency
+Development and Application
+of a Real-Time Drilling State
+Classification Algorithm with
+Machine Learning
+Digital Transformation Strategy
+Enables Automated Real-Time
+Torque-and-Drag Modeling
+Sam Ariabod
+Machine Learning Engineer at Anadarko Petroleum Corporation
+Sacramento, California Area
+Summary
+I am a production-minded engineer with demonstrated ability to
+deliver valuable insights via data analytics and advanced data-driven
+methods. I have a strong sense of logic and extensive software
+development experience. My deep understanding of big data and
+machine learning allows me to collaborate with data scientists and
+data engineers to develop purpose-built, complex, reliable machine
+learning solutions and big data pipelines.
+Experience
+Anadarko Petroleum Corporation
+Machine Learning Engineer / Data Engineer
+September 2018 - October 2019 (1 year 2 months)
+Houston, Texas Area
+• Member of the Advanced Analytics and Emerging Technologies Division
+(AAET) division
+• Researched and tested GCP services to replace on-prem MapR and
+Streambase based pipeline
+• Created a datalake using GCS and BigQuery to capture real-time well data
+for ML training
+• Created a hybrid, real-time ML pipeline (GCP to On-Prem)
+• Researched and created an ML model to detect drilling anomalies using
+image segmentation
+• Created RESTful APIs using Flask, Gunicorn, and Nginx to serve up models
+in Docker/Kubernetes
+• Built an ETL framework that tied real-time streaming data into a 3rd party
+physics model for Torque and Drag calculations
+Shiekh Shoes LLC
+Data Engineer
+May 2017 - September 2018 (1 year 5 months)
+Greater Los Angeles Area
+• Managed a team of developers to build and launch three ecommerce apps
+using agile methodologies
+  Page 1 of 4
+   
+• Prepared, planned, designed and created a BI solution to meet specific
+business needs for stakeholders
+• Created an ETL solution that was sourced from multiple disparate systems:
+Linux/MySQL, Windows/MSSQL, and Legacy POS systems
+• Created a reporting UI using Django that allowed users to aggregate data
+from multiple inventory sources and run statistics on them
+• Created mobile app data capturing using SQS, DynamoDB, and Lambda
+• Built out a datalake using Redshift and S3 to capture sales, inventory, and
+user data
+Czekmaet, Inc.
+Chief Data Officer
+May 2014 - May 2017 (3 years 1 month)
+• Managed and deployed machine learning models and data pipelines 
+• Gathered and cleaned data from various sources to build out traditional data
+cubes
+• Created an ETL solution using Airflow, Spark, S3, Cassandra for BI
+• Used collaborative filtering with a deep neural net to create a course
+recommendation engine for an online education provider
+• Built a price predicter for an online retailer that scrapes websites and looks
+for trends in pricing 
+• Moved on-prem Hadoop systems into the cloud using AWS services like
+EMR and Kafka
+MaxKnowledge, Inc.
+VP of Technology
+January 2005 - May 2014 (9 years 5 months)
+Orange County, California Area
+• Designed and developed an e-Learning platform from the ground up that
+supported over 100k students
+• Designed and coded an analytics system to analyze user behavior patterns
+and send custom marketing emails to promote specific sales promotions
+• Routinely met with company stakeholders to plan future products and
+services based on market trends 
+• Put a team of talented developers from various parts of the world to build a
+new web initiative based on an API centric model - Zend Framework, MySQL,
+MongoDB as the back-end and Node, React, Redux on the front-end
+• Met with current clients to gather information that would guide updates and
+feature development
+  Page 2 of 4
+   
+• Planed and moved entire on-prem server stack to AWS using services like
+EC2, ELB, Route53, Aurora, Lamba
+Farheap Solutions
+System Administrator
+October 2004 - December 2005 (1 year 3 months)
+Santa Ana, CA
+• Consolidated customer support systems – moved away from windows to linux
+cutting costs and maintenance
+• Built software to manage customer service calls
+• Created a system management utility to listen in and view the screens of
+customer support during calls using all open source technologies including
+Asterisk, MySQL, Linux 
+• Managed a team of IT personnel to support the infrastructure
+Northrop Rice USA
+Director of IT
+December 2003 - July 2004 (8 months)
+Houston, Texas Area
+• Maintained online infrastructure for training courses
+• Managed the development of 3D A&P training modules
+• Met with management to guide technology updates
+• Maintained a cluster of computers that was used for CAD
+Aerolearn, Inc.
+Director of IT
+January 2000 - January 2004 (4 years 1 month)
+Irvine, ca
+• Developed online course infrastructure
+• Customized software based on Unix/Perl CGI
+• Managed marketing department to ensure ROI – print and online
+Css Laboratories
+Systems Engineer
+January 1998 - January 2000 (2 years 1 month)
+Irvine, CA
+• Level 4 customer service support
+• Responsible for Mil Spec servers designed for US military submarines
+• Served as a Microsoft Hardware Compatibility Engineer, responsible to
+maintain hardware and software compatibility testing and compliance
+  Page 3 of 4
+   
+• Designed and developed a web-enabled support portal to streamline internal
+support services
+Education
+California State University, Fullerton
+Biology, General · (1995 - 1995)
+Udacity
+Nano Degree, Data Engineering · (2019 - 2019)
+Udacity
+Nano Degree, Machine Learning Engineer · (2018 - 2018)
+DeVry University
+Computer Science · (2000 - 2000)
+Butte College
+Mathematics · (1998 - 1998)
+  Page 4 of 4
+",contact www linkedin com sariabod linkedin top skill data science api development project management publication development application real time deep learning model drive directional drilling efficiency development application real time drilling state classification algorithm machine learning digital transformation strategy enables automated real time torque drag modeling sam ariabod machine learning engineer anadarko petroleum corporation sacramento california area summary production minded engineer demonstrated ability deliver valuable insight via data analytics advanced data driven method strong sense logic extensive software development experience deep understanding big data machine learning allows collaborate data scientist data engineer develop purpose built complex reliable machine learning solution big data pipeline experience anadarko petroleum corporation machine learning engineer data engineer september 2018 october 2019 1 year 2 month houston texas area member advanced analytics emerging technology division aaet division researched tested gcp service replace prem mapr streambase based pipeline created datalake using gc bigquery capture real time well data ml training created hybrid real time ml pipeline gcp prem researched created ml model detect drilling anomaly using image segmentation created restful apis using flask gunicorn nginx serve model docker kubernetes built etl framework tied real time streaming data 3rd party physic model torque drag calculation shiekh shoe llc data engineer may 2017 september 2018 1 year 5 month greater los angeles area managed team developer build launch three ecommerce apps using agile methodology page 1 4 prepared planned designed created bi solution meet specific business need stakeholder created etl solution sourced multiple disparate system linux mysql window mssql legacy po system created reporting ui using django allowed user aggregate data multiple inventory source run statistic created mobile app data capturing using sqs dynamodb lambda built datalake using redshift s3 capture sale inventory user data czekmaet inc chief data officer may 2014 may 2017 3 year 1 month managed deployed machine learning model data pipeline gathered cleaned data various source build traditional data cube created etl solution using airflow spark s3 cassandra bi used collaborative filtering deep neural net create course recommendation engine online education provider built price predicter online retailer scrape website look trend pricing moved prem hadoop system cloud using aws service like emr kafka maxknowledge inc vp technology january 2005 may 2014 9 year 5 month orange county california area designed developed e learning platform ground supported 100k student designed coded analytics system analyze user behavior pattern send custom marketing email promote specific sale promotion routinely met company stakeholder plan future product service based market trend put team talented developer various part world build new web initiative based api centric model zend framework mysql mongodb back end node react redux front end met current client gather information would guide update feature development page 2 4 planed moved entire prem server stack aws using service like ec2 elb route53 aurora lamba farheap solution system administrator october 2004 december 2005 1 year 3 month santa ana ca consolidated customer support system moved away window linux cutting cost maintenance built software manage customer service call created system management utility listen view screen customer support call using open source technology including asterisk mysql linux managed team personnel support infrastructure northrop rice usa director december 2003 july 2004 8 month houston texas area maintained online infrastructure training course managed development 3d p training module met management guide technology update maintained cluster computer used cad aerolearn inc director january 2000 january 2004 4 year 1 month irvine ca developed online course infrastructure customized software based unix perl cgi managed marketing department ensure roi print online cs laboratory system engineer january 1998 january 2000 2 year 1 month irvine ca level 4 customer service support responsible mil spec server designed u military submarine served microsoft hardware compatibility engineer responsible maintain hardware software compatibility testing compliance page 3 4 designed developed web enabled support portal streamline internal support service education california state university fullerton biology general 1995 1995 udacity nano degree data engineering 2019 2019 udacity nano degree machine learning engineer 2018 2018 devry university computer science 2000 2000 butte college mathematics 1998 1998 page 4 4,"compatibility testing, data cube, sale promotion, image segmentation, emr, api, etl, zend framework, front end, gcp, learn platform, computer science, machine learn, software development, customer support, emerge technology, hardware compatibility, com, project management, agile methodology, app datum, design code, data science, digital transformation, customer service, microsoft hardware, deep learning, directional drilling, back end, react redux, clean datum, recommendation engine, mobile app, market trend, open source technology, big datum",6,2
+34763,Nabeel Vandayar.txt,"   
+Contact
+www.linkedin.com/in/nabeel-
+vandayar (LinkedIn)
+nabeelvandayar.com (Personal)
+Top Skills
+Data Engineering
+Machine Learning
+Data Analysis
+Languages
+English (Full Professional)
+Chinese (Mandarin) (Elementary)
+Certifications
+Sequence Models
+Neural Networks and Deep Learning
+Convolutional Neural Networks
+Data Engineering Nanodegree
+Cloud Native Development with
+Node.js, Docker, and Kubernetes
+Honors-Awards
+University Entrance Scholarship
+Dean's Merit List: Bachelor of
+Medicine and Bachelor of Surgery
+Year 1
+Electronics Merit Award
+Software Development Merit Award
+Dean's List
+Nabeel Vandayar
+Data and machine learning engineer | Biomedical and electrical
+engineer | Biomechatronic robotics enthusiast
+Johannesburg Area, South Africa
+Summary
+I design, implement and manage data pipelines for real-time and
+scheduled bulk data processing using Python, AWS Redshift and
+EMR, Azure Databricks and CosmosDB, Apache Airflow, Spark and
+Kafka, using relational and NoSQL distributed databases. I also
+build and deploy machine learning models as scalable web services
+using Tensorflow, Docker, Kubernetes. My research ""Hand gesture
+recognition on low cost hardware"" has been published by the IEEE
+and the Pattern Recognition Association of South Africa. I have
+degrees in biomedical and electrical engineering and enjoy designing
+and building electromechanical systems using AI, robotics and the
+web.
+Experience
+Altron
+Data Engineer
+November 2018 - Present (1 year 5 months)
+South Africa
+Data pipeline design | Data modeling | User analytics | Software development
+| Machine learning solutions | Algorithm development | Big data processing |
+Real time solutions
+MediSwitch, a Division of Altron TMT (Pty) Ltd
+Data Scientist
+January 2017 - July 2018 (1 year 7 months)
+South Africa
+Diabetes diagnosis prediction using neural networks | Customer data
+visualization | Medical data processing | Principal component analysis 
+Education
+University of the Witwatersrand
+  Page 1 of 2
+   
+Master of Science (MSc) in Engineering, Biomedical
+Engineering · (2019 - 2020)
+University of the Witwatersrand
+Bachelor of Science (BSc) in Engineering , Electrical and
+Information · (2017 - 2018)
+University of the Witwatersrand
+Bachelor of Engineering Science (BEng), Biomedical
+Engineering · (2014 - 2017)
+University of the Witwatersrand
+Bachelor of Medicine, Bachelor of Surgery - MBBCh
+(Deferred), Medicine · (2013 - 2013)
+Jeppe High School for Boys
+Matric  · (2008 - 2012)
+  Page 2 of 2
+",contact www linkedin com nabeel vandayar linkedin nabeelvandayar com personal top skill data engineering machine learning data analysis language english full professional chinese mandarin elementary certification sequence model neural network deep learning convolutional neural network data engineering nanodegree cloud native development node j docker kubernetes honor award university entrance scholarship dean merit list bachelor medicine bachelor surgery year 1 electronics merit award software development merit award dean list nabeel vandayar data machine learning engineer biomedical electrical engineer biomechatronic robotics enthusiast johannesburg area south africa summary design implement manage data pipeline real time scheduled bulk data processing using python aws redshift emr azure databricks cosmosdb apache airflow spark kafka using relational nosql distributed database also build deploy machine learning model scalable web service using tensorflow docker kubernetes research hand gesture recognition low cost hardware published ieee pattern recognition association south africa degree biomedical electrical engineering enjoy designing building electromechanical system using ai robotics web experience altron data engineer november 2018 present 1 year 5 month south africa data pipeline design data modeling user analytics software development machine learning solution algorithm development big data processing real time solution mediswitch division altron tmt pty ltd data scientist january 2017 july 2018 1 year 7 month south africa diabetes diagnosis prediction using neural network customer data visualization medical data processing principal component analysis education university witwatersrand page 1 2 master science msc engineering biomedical engineering 2019 2020 university witwatersrand bachelor science bsc engineering electrical information 2017 2018 university witwatersrand bachelor engineering science beng biomedical engineering 2014 2017 university witwatersrand bachelor medicine bachelor surgery mbbch deferred medicine 2013 2013 jeppe high school boy matric 2008 2012 page 2 2,"com, web service, pattern recognition, gesture recognition, electrical engineering, principal component analysis, ieee, emr, machine learn, component analysis, software development, apache airflow, biomedical engineering, distribute database, convolutional neural network, data pipeline, big datum",5,2
+23863,Dennis Tran.txt,"   
+Contact
+www.linkedin.com/in/dennisdt
+(LinkedIn)
+Top Skills
+Python
+Machine Learning
+Data Mining
+Languages
+English (Native or Bilingual)
+Vietnamese (Native or Bilingual)
+Certifications
+Machine Learning
+SolidWorks Associate
+Honors-Awards
+Quest Scholar
+Dennis Tran
+Data Science | Machine Learning | Quantitative Finance
+Orange County, California Area
+Summary
+I am a data scientist, passionate about data and motivated to
+develop promising data-driven applications revolutionizing the
+industry.
+Experience
+Thinkful
+1 year 3 months
+Data Science Specializations Immersion Instructor
+January 2020 - Present (3 months)
+Data Science Technical Expert
+May 2019 - January 2020 (9 months)
+• Responded to technical questions, provided guidance to resolving issues,
+and communicated complex topics in a concise manner
+Data Science Mentor
+January 2019 - January 2020 (1 year 1 month)
+Santa Monica, CA
+• Mentored aspiring data scientists by utilizing modern machine learning
+modeling techniques and technologies
+• Covered important mathematical and statistical concepts
+MelonLuchi LLC
+Co-Founder
+March 2018 - Present (2 years 1 month)
+Orange County, California Area
+• Fashion-forward décor for the home and garden. High-quality products at
+unbeatable prices.
+Find us on Amazon!
+Trilogy Education
+Senior Tutor
+February 2018 - Present (2 years 2 months)
+  Page 1 of 4
+   
+Greater New York City Area
+• Aim to increase retention rate of students by solidifying knowledge taught in
+the data boot camp by providing constructive criticism, debugging homework
+assignments, and providing helpful insights to succeed beyond the classroom
+• Offered various alternative methods to manipulating and storing data types
+such as lists, dictionaries, and dataframes for use in data preprocessing/
+visualization
+UC Irvine
+Teaching Assistant
+September 2017 - Present (2 years 7 months)
+Irvine, CA
+• Prepared students for success within the field of data focusing on
+technologies such as Python, API Interactions, SQL/NoSQL Databases,
+HTML, CSS, JavaScript (Plotly.js, D3.js, Leaflet.js), R, Tableau, Big Data, and
+Machine Learning
+• Assisted with ensuring students understand the concepts through
+assignments and activities
+• Mentored students to understand how to read, organize and visualize data
+Method Data Science
+Manager - Data Science
+May 2018 - September 2019 (1 year 5 months)
+Orange County, California Area
+• Managed multiple data science team leads, led weekly meetings, generated
+progress reports for executives
+• Consulted for numerous client projects such as banking, healthcare,
+insurance, and IOT technology
+• Trained resident data scientists on essential practices in communicating and
+presenting data science solutions in a clear, effective manner
+Orange County Data Science
+Data Scientist
+May 2017 - May 2018 (1 year 1 month)
+Huntington Beach, CA
+• Developed a prototype machine learning model for detecting fraud using
+client’s user account data
+• Navigated through high volume data to reduce feature size and extracted
+features corresponding to fraudulent activity
+• Used statistical methods to normalize skewness of features
+  Page 2 of 4
+   
+Doctor's Best
+Product Analyst
+April 2017 - July 2017 (4 months)
+Irvine, CA
+• Designed tools using customer data to support sales team with deciding
+products to promote
+• Built reports for monthly analysis on new product performance for future
+implementation into Salesforce
+• Extracted product data from the ERP system to forecast sales and drive
+business decisions
+Einstein Assembly
+Data Science Intern
+August 2016 - January 2017 (6 months)
+Irvine, CA
+• Assisted in teaching students the fundamentals of data science in python and
+introducing important machine learning algorithms
+• Added assignments for NumPy, Pandas, Data Visualization, Natural
+Language Processing, and Classification to the Data Science Bootcamp 
+• Web-scraped horseracing data for use in the Project Based Learning
+curriculum
+USC Viterbi School of Engineering
+Undergraduate Research Assistant
+May 2015 - May 2016 (1 year 1 month)
+Los Angeles, CA
+• Designed and fabricated an adjustable, modular boundary layer in CAD for
+experimental use in the water channel
+• Measured the interactions of a flow against different porous and permeable
+surfaces for possible drag reduction applications
+• Implemented a flow visualization system using a dye injector to release
+fluorescent dye and utilizing UV technology for qualitative analysis
+Calnetix Technologies
+Manufacturing Engineer Intern
+May 2013 - August 2013 (4 months)
+Cerritos, CA
+• Studied the process in which a stator is manufactured from start to finish
+• Remodeled tools to be compatible with newer stator designs using
+SolidWorks 
+  Page 3 of 4
+   
+• Designed an extendable coiling table to improve efficiency in coiling the
+copper wires put into the stators as well as store all of the manufacturing
+supplies
+Education
+University of Southern California
+Bachelor of Science (B.S.), Mechanical Engineering · (2012 - 2016)
+Udacity
+Machine Learning Engineer Nanodegree  · (2016 - 2017)
+  Page 4 of 4
+",contact www linkedin com dennisdt linkedin top skill python machine learning data mining language english native bilingual vietnamese native bilingual certification machine learning solidworks associate honor award quest scholar dennis tran data science machine learning quantitative finance orange county california area summary data scientist passionate data motivated develop promising data driven application revolutionizing industry experience thinkful 1 year 3 month data science specialization immersion instructor january 2020 present 3 month data science technical expert may 2019 january 2020 9 month responded technical question provided guidance resolving issue communicated complex topic concise manner data science mentor january 2019 january 2020 1 year 1 month santa monica ca mentored aspiring data scientist utilizing modern machine learning modeling technique technology covered important mathematical statistical concept melonluchi llc co founder march 2018 present 2 year 1 month orange county california area fashion forward cor home garden high quality product unbeatable price find u amazon trilogy education senior tutor february 2018 present 2 year 2 month page 1 4 greater new york city area aim increase retention rate student solidifying knowledge taught data boot camp providing constructive criticism debugging homework assignment providing helpful insight succeed beyond classroom offered various alternative method manipulating storing data type list dictionary dataframes use data preprocessing visualization uc irvine teaching assistant september 2017 present 2 year 7 month irvine ca prepared student success within field data focusing technology python api interaction sql nosql database html cs javascript plotly j d3 j leaflet j r tableau big data machine learning assisted ensuring student understand concept assignment activity mentored student understand read organize visualize data method data science manager data science may 2018 september 2019 1 year 5 month orange county california area managed multiple data science team lead led weekly meeting generated progress report executive consulted numerous client project banking healthcare insurance iot technology trained resident data scientist essential practice communicating presenting data science solution clear effective manner orange county data science data scientist may 2017 may 2018 1 year 1 month huntington beach ca developed prototype machine learning model detecting fraud using client user account data navigated high volume data reduce feature size extracted feature corresponding fraudulent activity used statistical method normalize skewness feature page 2 4 doctor best product analyst april 2017 july 2017 4 month irvine ca designed tool using customer data support sale team deciding product promote built report monthly analysis new product performance future implementation salesforce extracted product data erp system forecast sale drive business decision einstein assembly data science intern august 2016 january 2017 6 month irvine ca assisted teaching student fundamental data science python introducing important machine learning algorithm added assignment numpy panda data visualization natural language processing classification data science bootcamp web scraped horseracing data use project based learning curriculum usc viterbi school engineering undergraduate research assistant may 2015 may 2016 1 year 1 month los angeles ca designed fabricated adjustable modular boundary layer cad experimental use water channel measured interaction flow different porous permeable surface possible drag reduction application implemented flow visualization system using dye injector release fluorescent dye utilizing uv technology qualitative analysis calnetix technology manufacturing engineer intern may 2013 august 2013 4 month cerritos ca studied process stator manufactured start finish remodeled tool compatible newer stator design using solidworks page 3 4 designed extendable coiling table improve efficiency coiling copper wire put stator well store manufacturing supply education university southern california bachelor science b mechanical engineering 2012 2016 udacity machine learning engineer nanodegree 2016 2017 page 4 4,"com, user account, undergraduate research, erp, statistical method, design tool, boundary layer, flow visualization, machine learn, api, retention rate, data science, progress report, mechanical engineering, html, qualitative analysis",3,2
+55210,Lindani Moyo.txt,"   
+Contact
+www.linkedin.com/in/lindani-
+moyo-0a880884 (LinkedIn)
+Top Skills
+Machine Learning
+Data Mining
+R
+Lindani Moyo
+Machine Learning engineer at Praelexis
+Bisho Area, South Africa
+Experience
+Praelexis
+Data Scientist
+May 2016 - Present (3 years 11 months)
+Stellenbosch
+Education
+University of Fort Hare
+Master’s Degree, Computer Science · (2014 - 2016)
+University of Fort Hare
+Bachelor’s Degree, Computer Science · (2013 - 2014)
+University of Fort Hare
+Bachelor’s Degree, Computer Science and Geographical Information
+Systems · (2010 - 2013)
+  Page 1 of 1
+",contact www linkedin com lindani moyo 0a880884 linkedin top skill machine learning data mining r lindani moyo machine learning engineer praelexis bisho area south africa experience praelexis data scientist may 2016 present 3 year 11 month stellenbosch education university fort hare master degree computer science 2014 2016 university fort hare bachelor degree computer science 2013 2014 university fort hare bachelor degree computer science geographical information system 2010 2013 page 1 1,"machine learn, com, computer science, information system",3,1
+4950,Junchao Zheng.txt,"   
+联系方式
+www.linkedin.com/in/
+junchaozheng819 (LinkedIn)
+热门技能
+Python
+SQL
+Data Analysis
+Languages
+Chinese (Native or Bilingual)
+English (Full Professional)
+Publications
+What Matters: Agreement between
+U.S. Courts of Appeals Judges
+Junchao Zheng
+Machine Learning Engineer at Walmart eCommerce
+Jersey City, New Jersey
+个人简介
+Interested in NLP/ML/DL research.
+工作经历
+Walmart eCommerce
+Machine Learning Engineer
+2019 年 9 月 - Present (7 个月)
+Hoboken, NJ
+Grammarly
+Research Engineer
+2017 年 6 月 - 2019 年 6 月 (2 年 1 个月)
+Greater New York City Area
+Center for Data Science and Department for Environmental Studies,
+New York University
+Research Assistant
+2016 年 9 月 - 2017 年 6 月 (10 个月)
+Greater New York City Area
+Siemens Plant Data Services
+Data Scientist - Summer Internship
+2016 年 5 月 - 2016 年 7 月 (3 个月)
+Alpharetta, GA
+Financial and Capital Market Research Center, Fudan University
+Research Internship
+2014 年 7 月 - 2015 年 2 月 (8 个月)
+Shanghai City, China
+教育经历
+  Page 1 of 2
+   
+New York University
+Master of Science (M.S.), Data Science · (2015 - 2017)
+Fudan University
+Bachelor's degree, Physics · (2011 - 2015)
+  Page 2 of 2
+",www linkedin com junchaozheng819 linkedin python sql data analysis language chinese native bilingual english full professional publication matter agreement u court appeal judge junchao zheng machine learning engineer walmart ecommerce jersey city new jersey interested nlp ml dl research walmart ecommerce machine learning engineer 2019 9 present 7 hoboken nj grammarly research engineer 2017 6 2019 6 2 1 greater new york city area center data science department environmental study new york university research assistant 2016 9 2017 6 10 greater new york city area siemens plant data service data scientist summer internship 2016 5 2016 7 3 alpharetta ga financial capital market research center fudan university research internship 2014 7 2015 2 8 shanghai city china page 1 2 new york university master science data science 2015 2017 fudan university bachelor degree physic 2011 2015 page 2 2,"com, capital market, machine learn, data science, environmental study, market research, data analysis",3,0
